@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shaadi</string>
+    <string name="no_internet_connection">Please check Internet Connection</string>
+    <string name="went_wrong">Something went wrong. Please try again later</string>
+</resources>
